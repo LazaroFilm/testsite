@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: green;
+}
+
+h1 {
+    color:rgb(34, 155, 255);
+}
+
+a {
+    color:rgb(255, 34, 251);
+}
+
+#orangetext {
+    color:tomato;
+}
